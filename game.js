@@ -3,8 +3,6 @@ const number1 = document.getElementById("number1");
 const number2 = document.getElementById("number2");
 const button = document.getElementById("buttons");
 const timer = document.getElementById("timer");
-number1.textContent = number1;
-number2.textContent = number2;
 
 // Iteration 3: Creating variables required to make the game functional
 let time = 20;
